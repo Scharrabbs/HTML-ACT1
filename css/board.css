@@ -1,0 +1,50 @@
+body{
+	margin: 0;
+	border: 5px solid black;
+	height: 750px;
+}
+
+.cover{
+	border: solid;
+	width: 90%;
+	height: 300px;
+	text-align: center;
+}
+.menus{
+	width: 10px;
+	height: 20px;
+
+
+}
+.content{
+	background-color: ;
+	width: 50%;
+	height: 550px;
+
+}
+
+ul{
+	border: solid;
+	background-color: yellow;
+	padding: 30px;
+	list-style-type: none ;
+	margin: 0;
+
+}
+li{
+	display: inline;
+	margin-left: 200px;
+}
+
+.List{
+	border: 10px solid orange;
+	width: 10;
+	height: 20;
+	float: right;
+}
+ol{
+	border: 5px solid lightgreen;
+	background-color: lightseagreen;
+	width: 100px;
+	height: 100%;
+}
